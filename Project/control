@@ -1,0 +1,9 @@
+Package: com.alphaMatterr.PvZ2
+Name: PvZ2
+Depends: mobilesubstrate
+Version: 0.0.1
+Architecture: iphoneos-arm
+Description: An awesome MobileSubstrate tweak!
+Maintainer: alphaMatterr
+Author: alphaMatterr
+Section: Tweaks

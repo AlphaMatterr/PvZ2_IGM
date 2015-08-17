@@ -1,0 +1,73 @@
+PvZ 2 - VERSION 3.8.1
+
+All Cheat Menu Features Enabled
+
+mem address - 0x32B158
+old - 0x0020
+new - 0x0120
+
+Unlimited Sun (MENU 1)
+
+mem address - 0xCB87C
+old - 0xC4F8F450
+new - 0xC4F8F470
+ 
+Unlimited Coins (get a coin and then leave the level to have ~580mill) (MENU 2)
+
+mem address - 0x11110C
+old - 0x1144
+new - 0x3144
+
+Unlimited Food (MENU 3)
+
+mem address - 0x1BF4B4
+old - 0xC0F80811
+new - 0xC0F80871
+
+Lots of Plant Food at Start of Level (MENU 4)
+
+mem address - 0xCF5E8
+old - 0x5BF2B6FD
+new - 0x0120C046
+
+Free Planting (MENU 5)
+
+mem address - 0x283680
+old - 0xA7F06AFD
+new - 0x0120C046
+
+Click Level to Unlock/Complete (MENU 6)
+
+mem address - 0x1E7D8E
+old - 0x43F1E3F9
+new - 0x0120C046
+ 
+No Cooldown (MENU 7)
+
+mem address - 0x1D3EF0
+old - 0x57F132F9
+new - 0x0120C046
+
+Buy Stuff From Store For Free (MENU 8)
+
+mem address - 0x2E0C5C
+old - 0x4AF07CFA
+new - 0x0120C046
+
+Invincible Plants (MENU 9)
+
+mem address - 0x128066
+old - 0x03F277F8
+new - 0x0120C046
+
+All Zombies Drop Sprouts (MENU 10)
+
+mem address - 0x1FF902
+old - 0x2BF129FC
+new - 0x0120C046
+
+Infinite World Keys (MENU 11)
+
+mem address - 0x2B5E46
+old - 0x75F087F9
+new - 0x0120C046
